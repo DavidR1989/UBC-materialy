@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/pruvodce", "destination": "/ubc-pruvodce.pdf" }
+  ]
+}
